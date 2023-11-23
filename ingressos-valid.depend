@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1700779875 source:c:\users\fcngu\workspace c\ingressos-valid\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"telas.h"
+	"questionario.h"
+
+1700767900 c:\users\fcngu\workspace c\ingressos-valid\telas.h
+
+1700773106 c:\users\fcngu\workspace c\ingressos-valid\questionario.h
+	<stdio.h>
+
